@@ -1,0 +1,2 @@
+const cource ={ courseName:"BIT", courseFee : "Rs150000"  , startDate :" 12.06.2018", center: "Our Office" } ;
+ document.write(cource.courseName + " " + cource.courseFee + " " + cource.startDate + " " + cource.center)
